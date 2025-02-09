@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
-import { convertToDecimalTime } from "../utils/decimalTime";
 import { Noto_Sans_KR, Roboto } from "next/font/google";
+import { convertToDecimalTime } from "./../utils/decimalTime";
 
 const notoSans = Noto_Sans_KR({ weight: ["300", "700"], subsets: ["latin"] });
 const roboto = Roboto({ weight: ["300", "700"], subsets: ["latin"] });
