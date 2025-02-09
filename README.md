@@ -8,5 +8,5 @@ http://localhost:3000/decimal-time-utils
 
 ```
 npm run build
-npm run export
+npx gh-pages -d out
 ```
