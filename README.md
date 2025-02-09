@@ -7,7 +7,6 @@ http://localhost:3000/decimal-time-utils
 ### production
 
 ```
-git checkout gh-pages
 npm run build
 npm run export
 ```
